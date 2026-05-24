@@ -1,16 +1,43 @@
-# React + Vite
+# 🎬 LABORATORIO: FUNDAMENTOS DE REACT - CINESPOILERS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend interactivo desarrollado con React y TypeScript para la gestión visual de CineSpoilerS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 PRUEBA 1: Proyecto limpio, renderizado y sin errores
+![Prueba 1](docs/prueba01.png)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎥 PRUEBA 2: Creación de componente con variables y uso
+![Prueba 2](docs/prueba02.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🏷️ PRUEBA 3: Props en el componente creado (Comunicación)
+![Prueba 3](docs/prueba03.png)
+
+---
+
+## 🔗 PRUEBA 4: Estado en el componente (useState)
+![Prueba 4](docs/prueba04.png)
+
+---
+
+## 🔗 PRUEBA 5: Manejo de estado mediante eventos (onClick)
+![Prueba 5](docs/prueba05.png)
+
+---
+
+## 📌 TECNOLOGÍAS
+- React
+- TypeScript
+- Vite
+- CSS3 (Estilos personalizados)
+
+---
+
+## 👨‍💻 Equipo de Desarrollo
+- Ingrediente: Pablo Isla
+- Ingrediente 2: Piero Huaytalla
+- Ingrediente 3: Andy Campos
